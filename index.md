@@ -74,6 +74,13 @@ The controller is pretty much the same as the Beatmania controller, but the keyp
 
 [Click here for instructions](/rhythmcons/beatmania-iidx/iidx-hybrid)
 
+# GROOVE COASTER CONTROLLERS
+
+### Simple Version
+
+This is the bare minimum you need to get a reasonable Groove Coaster controller together. Original design by [KnucklesLee](http://knuckleslee.blogspot.com/2018/04/groovecoaster.html), modified by [Verox Zik](https://github.com/veroxzik/).
+
+[Click here for instructions](/rhythmcons/groovecoaster/gc_simple)
 
 # OTHER CONTROLLERS
 
